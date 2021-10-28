@@ -2,7 +2,7 @@
 ## Para rodar:
 - Iniciar o back-end com `nodemon index`
 - Iniciar o expo com `yarn start` (é necessário colocar o número do ip que vai rodar o server no arquivo src/services/api.js (Se for usar o seu pc, coloque seu ip e certifique-se que o celular e o pc estão na mesma rede))
-- Se caso não conseguir inciar o back-end exite no app a opção de login ofline.
+- Se caso não conseguir inciar o back-end utilize a opção de login ofline.
 
 ## Funcionalidades
 - Autenticação com token(jwt)
