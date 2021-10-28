@@ -11,4 +11,19 @@
 - Utilização do Axios
 - Utilização do Express 
 
-## 
+## Prints
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/telaLogin.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/telaLogiErro.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/TelaCadastro.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/TelaInicia1.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/TelaInicioCard1.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/TelaInicioCard2.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/TelaInicia2.jpeg" width="350">
+
+<img src="https://gitlab.com/fellipe-s-brandao/capacitacao-mobile/-/raw/main/TelaInicialOfline.jpeg" width="350">
